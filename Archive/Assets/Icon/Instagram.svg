@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Instagram</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.415686 0 0 0 0 0.415686 0 0 0 0 0.415686 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer/Desktop" transform="translate(-1189.000000, -247.000000)">
+            <g id="Social-links" transform="translate(1188.000000, 246.000000)" filter="url(#filter-1)">
+                <g id="Group">
+                    <rect id="Box" stroke="#6A6A6A" stroke-linecap="round" stroke-linejoin="round" x="2" y="2" width="20" height="20" rx="5"></rect>
+                    <path d="M15.9568436,11.4134512 C16.209966,13.1204228 15.3398694,14.7972958 13.7984701,15.5731251 C12.2570708,16.3489544 10.3918921,16.0488219 9.17168253,14.8286123 C7.95147292,13.6084027 7.65134041,11.743224 8.42716973,10.2018247 C9.20299905,8.66042539 10.879872,7.7903288 12.5868436,8.04345124 C14.3298203,8.30191279 15.698382,9.67047447 15.9568436,11.4134512 Z" id="Path" stroke="#6A6A6A" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M18,6 C18.5545122,6 19,6.44771525 19,7 C19,7.51283584 18.6158804,7.93550716 18,8 L18,8 C17.4454878,8 17,7.55228475 17,7 C17,6.48716416 17.3841196,6.06449284 18,6 L18,6 Z" id="Path" fill="#6A6A6A" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

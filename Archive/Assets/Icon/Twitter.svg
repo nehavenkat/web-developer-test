@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="20px" viewBox="0 0 23 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Twitter</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.415686 0 0 0 0 0.415686 0 0 0 0 0.415686 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Footer/Desktop" transform="translate(-1285.000000, -248.000000)">
+            <g id="Social-links" transform="translate(1188.000000, 246.000000)" filter="url(#filter-1)">
+                <g id="Path" transform="translate(96.000000, 0.000000)" stroke="#6A6A6A">
+                    <path d="M23,3.01029463 C22.042385,3.68788427 20.9821079,4.20613163 19.86,4.54507897 C18.6263595,3.12218121 16.63837,2.62320227 14.8820815,3.29563756 C13.125793,3.96807285 11.9748003,5.66888305 12,7.55446004 L12,8.55758706 C8.43066483,8.65042887 5.05202531,6.94452922 3,4.01342165 C3,4.01342165 -1,13.0415648 8,17.0540729 C5.94052756,18.4564107 3.48715691,19.1595657 1,19.060327 C10,24.0759621 21,19.060327 21,7.52436622 C20.9990791,7.24494884 20.9722975,6.96622073 20.92,6.6917708 C21.9406031,5.68211651 22.6608274,4.40736246 23,3.01029463 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
